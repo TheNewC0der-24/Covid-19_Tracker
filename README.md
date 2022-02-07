@@ -23,7 +23,9 @@ To show the Graph I use `Apex Chart`. And to show all the numbers and I am using
 </p>
 
 ## Link for the Website
+```
 https://thenewc0der-24.github.io/Covid-19_Tracker/
+```
 
 ***
 <h3 align="Center">Hope this is Helpful :-)</h3>
