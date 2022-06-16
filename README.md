@@ -7,14 +7,16 @@ Known as “COVID-19”, the newly identified coronavirus can cause pneumonia, a
 >_It is the web application used to track Covid-19 stats all over the world._
 
 ## Built With
-|HTML |CSS |JavaScript |
-|--- |--- |--- |
+|HTML |CSS |JavaScript |[Covid-19 API](https://covid19api.com/ "Covid-19 API") |
+|--- |--- |--- |--- |
 
 ## Features
 In this Web-Application, you can see Covid-19 stats all over the world. Also, you can see stats by a particular country by changing Global to your specific Country. 
-To show the Graph I use `Apex Chart`. And to show all the numbers and I am using [Covid-19 API](https://covid19api.com/ "Covid-19 API"). 
+To show the Graph I use `Apex Chart`. And to show all the data I used [Covid-19 API](https://covid19api.com/ "Covid-19 API"). 
 
 **You can see this application in _Dark_ and _Light_ mode both.**
+
+User can see daily increase as well
 
 ## Preview
 <p align="Center">
