@@ -20,8 +20,8 @@ User can see daily increase as well
 
 ## Preview
 <p align="Center">
-  <img src="https://github.com/TheNewC0der-24/Covid-19_Tracker/blob/master/Preview-1.png" width="450">
-  <img src="https://github.com/TheNewC0der-24/Covid-19_Tracker/blob/master/Preview-2.png" width="450">
+  <img src="https://github.com/TheNewC0der-24/Covid-19_Tracker/blob/master/Preview-1.png" width="400">
+  <img src="https://github.com/TheNewC0der-24/Covid-19_Tracker/blob/master/Preview-2.png" width="400">
 </p>
 
 ## Link for the Website
